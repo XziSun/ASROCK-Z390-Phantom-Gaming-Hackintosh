@@ -1,9 +1,9 @@
 # ASROCK-Z390-Phantom-Gaming-Hackintosh
 EFI files suited for my own desktop
 
-###At begin, I have to announce that the EFI files just fit for my own desktop, which means you probably have to modify yours.
+### At begin, I have to announce that the EFI files just fit for my own desktop, which means you probably have to modify yours.
 
-#Hardware
+# Hardware
 
 |Motherboard|AsRoch Z390 itx phantom gaming|
 |:---------:|:------------:|
@@ -14,9 +14,9 @@ EFI files suited for my own desktop
 
 
 
-#Results
+# Results
 Almost perfect. Yet the thunderbolt can't be used. (Some Hachintoshers have properly booted it. Gorgeous!)
 
-#Attention
+# Attention
 If you can't get into the system, besides checking other points,  DO REMIND to check if you have turn on Dell SMBios patch and update your memoryfix.kext. to the latest one.
 
