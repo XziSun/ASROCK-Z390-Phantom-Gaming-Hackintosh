@@ -1,7 +1,7 @@
 # ASROCK-Z390-Phantom-Gaming-Hackintosh
 EFI files suited for my own desktop
 
-### At begin, I have to announce that the EFI files just fit for my own desktop, which means you probably have to modify yours.
+### To begin with, I have to demonstrate that the EFI files just fit for my own desktop, which means you probably have to modify yours.
 
 # Hardware
 
